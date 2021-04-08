@@ -1,3 +1,4 @@
 alpine-git
 ================
-Docker image with Alpine Linux, bash, git and openssh-client
+Docker image with Alpine Linux, bash, git, openssh-client and curl
+
